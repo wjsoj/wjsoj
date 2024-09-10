@@ -34,8 +34,8 @@
 
 
 ## Just a Novice in Github  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wjsoj&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+![](https://raw.githubusercontent.com/wjsoj/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/wjsoj/github-stats-transparent/output/generated/languages.svg)
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
