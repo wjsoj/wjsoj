@@ -40,8 +40,6 @@
 ## Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2016%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -83,7 +81,7 @@ Linux                    8 hrs 42 mins       ███████████�
 ```
 
 
- Last Updated on 29/08/2025 03:45:30 UTC
+ Last Updated on 30/08/2025 03:34:12 UTC
 <!--END_SECTION:waka-->
 
 ----
