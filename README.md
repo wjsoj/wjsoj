@@ -40,8 +40,51 @@
 ## Coding Time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C748%20hrs%2012%20mins-blue?style=flat)
 
- Last Updated on 15/05/2026 07:02:33 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+🌆 Daytime                1132 commits        ██████████░░░░░░░░░░░░░░░   39.02 % 
+🌃 Evening                1197 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
+🌙 Night                  212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   547 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Tuesday                  382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Wednesday                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Thursday                 219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Friday                   544 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Saturday                 454 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Sunday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Typst                    11 hrs 52 mins      ████████████░░░░░░░░░░░░░   48.77 % 
+Python                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Other                    3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Markdown                 2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Go                       1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 52 mins      █████████████████░░░░░░░░   69.35 % 
+Unknown Editor           7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
+
+💻 Operating System: 
+Linux                    24 hrs 20 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 06:31:54 UTC
 <!--END_SECTION:waka-->
 
 ----
