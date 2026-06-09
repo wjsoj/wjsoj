@@ -40,52 +40,10 @@
 ## Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C916%20hrs%2032%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-🌆 Daytime                1266 commits        ██████████░░░░░░░░░░░░░░░   40.24 % 
-🌃 Evening                1269 commits        ██████████░░░░░░░░░░░░░░░   40.34 % 
-🌙 Night                  224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   571 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Tuesday                  436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Wednesday                462 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Thursday                 238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Friday                   580 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Saturday                 488 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Sunday                   371 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C919%20hrs%2046%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
-TypeScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-MDX                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Go                       37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 53 mins       ██████████████░░░░░░░░░░░   57.49 % 
-VS Code                  2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Codex CLI                45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-
-💻 Operating System: 
-Linux                    6 hrs 45 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 08/06/2026 08:18:03 UTC
+ Last Updated on 09/06/2026 07:40:54 UTC
 <!--END_SECTION:waka-->
 
 ----
