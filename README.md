@@ -69,23 +69,23 @@ Sunday                   457 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
-Markdown                 3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
-JSON                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Go                       3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
+Markdown                 3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.76 % 
+JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 50 mins       ██████████████████████░░░   87.99 % 
-VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Codex CLI                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Claude Code              7 hrs 35 mins       ██████████████████████░░░   88.18 % 
+VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Codex CLI                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Linux                    10 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2026 07:08:28 UTC
+ Last Updated on 05/07/2026 07:31:58 UTC
 <!--END_SECTION:waka-->
 
 ----
