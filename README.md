@@ -45,19 +45,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌆 Daytime                1527 commits        ██████████░░░░░░░░░░░░░░░   40.47 % 
-🌃 Evening                1492 commits        ██████████░░░░░░░░░░░░░░░   39.54 % 
+🌞 Morning                479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+🌆 Daytime                1528 commits        ██████████░░░░░░░░░░░░░░░   40.49 % 
+🌃 Evening                1492 commits        ██████████░░░░░░░░░░░░░░░   39.53 % 
 🌙 Night                  275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   641 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Monday                   642 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 Tuesday                  511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 Wednesday                588 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 Thursday                 303 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Friday                   702 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Friday                   702 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
 Saturday                 571 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 Sunday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 ```
@@ -69,23 +69,22 @@ Sunday                   457 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
-Markdown                 3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.76 % 
-JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Go                       1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   38.38 % 
+Markdown                 1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.03 % 
+JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 35 mins       ██████████████████████░░░   88.18 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Codex CLI                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Claude Code              3 hrs 39 mins       ███████████████████████░░   91.49 % 
+VS Code                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 💻 Operating System: 
-Linux                    8 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 07:31:58 UTC
+ Last Updated on 06/07/2026 08:13:32 UTC
 <!--END_SECTION:waka-->
 
 ----
